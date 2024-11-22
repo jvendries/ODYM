@@ -1,0 +1,21 @@
+name: ODYM_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip=24.3
+ 
+  - matplotlib
+  - numpy
+  - openpyxl
+  - pandas
+  - pypandoc
+  - scipy
+  - xlrd
+  - xlwt
+ 
+  - spyder
+  - spyder-notebook
+ 
+  - pip:
+    - "--editable=git+https://github.com/jvendries/ODYM.git#egg=ODYM"
