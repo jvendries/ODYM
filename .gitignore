@@ -1,0 +1,6 @@
+.spyproject
+.virtual_documents
+odym/modules/__pycache__
+src
+docs/.ipynb_checkpoints
+.ipynb_checkpoints
