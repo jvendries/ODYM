@@ -16,11 +16,9 @@ Define index table dataframe.
 
 Reading parameter ODYM_Tutorial6_Lifetime
 
-CLASSIFICATION FILE FATAL ERROR: Classification file of parameter ODYM_Tutorial6_Lifetime is not identical to the classification master file used for the current model run.
-
 LIST
 
-A total of 4 values was read from file for parameter ODYM_Tutorial6_Lifetime.
+A total of 2 values was read from file for parameter ODYM_Tutorial6_Lifetime.
 
 1.0 of 1 values for parameter ODYM_Tutorial6_Lifetime were assigned.
 
@@ -30,13 +28,11 @@ _
 
 Reading parameter ODYM_Tutorial6_SteelConsumption
 
-CLASSIFICATION FILE FATAL ERROR: Classification file of parameter ODYM_Tutorial6_SteelConsumption is not identical to the classification master file used for the current model run.
-
 TABLE
 
 A total of 3208 values was read from file for parameter ODYM_Tutorial6_SteelConsumption.
 
-0.0 of 25 values for parameter ODYM_Tutorial6_SteelConsumption were assigned.
+25.0 of 25 values for parameter ODYM_Tutorial6_SteelConsumption were assigned.
 
 Current parameter file UUID: 6738f872-8ec9-4ba5-986b-6da947f03289
 
@@ -44,13 +40,11 @@ _
 
 Reading parameter ODYM_Tutorial6_EoLRecoveryRate
 
-CLASSIFICATION FILE FATAL ERROR: Classification file of parameter ODYM_Tutorial6_EoLRecoveryRate is not identical to the classification master file used for the current model run.
-
 LIST
 
-A total of 8 values was read from file for parameter ODYM_Tutorial6_EoLRecoveryRate.
+A total of 16 values was read from file for parameter ODYM_Tutorial6_EoLRecoveryRate.
 
-0.0 of 1 values for parameter ODYM_Tutorial6_EoLRecoveryRate were assigned.
+1.0 of 1 values for parameter ODYM_Tutorial6_EoLRecoveryRate were assigned.
 
 Current parameter file UUID: 6213e899-8367-483a-8d09-a0c0831c22e5
 
@@ -58,21 +52,17 @@ _
 
 Reading parameter ODYM_Tutorial6_FabricationYieldLoss
 
-CLASSIFICATION FILE FATAL ERROR: Classification file of parameter ODYM_Tutorial6_FabricationYieldLoss is not identical to the classification master file used for the current model run.
-
 LIST
 
-A total of 8 values was read from file for parameter ODYM_Tutorial6_FabricationYieldLoss.
+A total of 16 values was read from file for parameter ODYM_Tutorial6_FabricationYieldLoss.
 
-0.0 of 1 values for parameter ODYM_Tutorial6_FabricationYieldLoss were assigned.
+1.0 of 1 values for parameter ODYM_Tutorial6_FabricationYieldLoss were assigned.
 
 Current parameter file UUID: 03175789-dfcb-4448-99b1-1c467b65b3ed
 
 _
 
 Reading parameter ODYM_Tutorial6_RemeltingYield
-
-CLASSIFICATION FILE FATAL ERROR: Classification file of parameter ODYM_Tutorial6_RemeltingYield is not identical to the classification master file used for the current model run.
 
 LIST
 
@@ -86,11 +76,9 @@ _
 
 Reading parameter ODYM_Tutorial6_SectorSplit
 
-CLASSIFICATION FILE FATAL ERROR: Classification file of parameter ODYM_Tutorial6_SectorSplit is not identical to the classification master file used for the current model run.
-
 LIST
 
-A total of 16 values was read from file for parameter ODYM_Tutorial6_SectorSplit.
+A total of 8 values was read from file for parameter ODYM_Tutorial6_SectorSplit.
 
 1.0 of 1 values for parameter ODYM_Tutorial6_SectorSplit were assigned.
 
