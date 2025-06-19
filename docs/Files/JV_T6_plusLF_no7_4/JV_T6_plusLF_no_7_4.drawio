@@ -19,8 +19,8 @@
         <mxCell id="HtruuLuYDEo0LDEvEm3I-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="220" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HtruuLuYDEo0LDEvEm3I-2" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Deletion: F_7_4&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="230" width="120" height="30" as="geometry" />
+        <mxCell id="HtruuLuYDEo0LDEvEm3I-2" value="&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 10px;&quot;&gt;Deletion: F_7_4&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 10px;&quot;&gt;Edit: Λ (lamba) parameter changed to 0 to match deletion of F_7_4&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HtruuLuYDEo0LDEvEm3I-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=60;" vertex="1" parent="1">
           <mxGeometry x="364.33" y="272.5" width="90" height="40" as="geometry" />
