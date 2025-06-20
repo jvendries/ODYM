@@ -32,7 +32,7 @@ TABLE
 
 A total of 3208 values was read from file for parameter ODYM_Tutorial6_SteelConsumption.
 
-648.0 of 4512 values for parameter ODYM_Tutorial6_SteelConsumption were assigned.
+200.0 of 400 values for parameter ODYM_Tutorial6_SteelConsumption were assigned.
 
 Current parameter file UUID: 6738f872-8ec9-4ba5-986b-6da947f03289
 
