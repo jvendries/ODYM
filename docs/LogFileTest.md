@@ -14,73 +14,73 @@ Define model classifications and select items for model classifications accordin
 
 Define index table dataframe.
 
-Reading parameter ODYM_Tutorial6_Lifetime
+Reading parameter ODYM_Tutorial6_LifetimeLL
 
 LIST
 
-A total of 4 values was read from file for parameter ODYM_Tutorial6_Lifetime.
+A total of 2 values was read from file for parameter ODYM_Tutorial6_LifetimeLL.
 
-4.0 of 4 values for parameter ODYM_Tutorial6_Lifetime were assigned.
+2.0 of 2 values for parameter ODYM_Tutorial6_LifetimeLL were assigned.
 
 Current parameter file UUID: 1ad185e8-af42-4ee1-8cc5-2215081de35c
 
 _
 
-Reading parameter ODYM_Tutorial6_SteelConsumption
+Reading parameter ODYM_Tutorial6_EVConsumptionLL
 
 TABLE
 
-A total of 3208 values was read from file for parameter ODYM_Tutorial6_SteelConsumption.
+A total of 3208 values was read from file for parameter ODYM_Tutorial6_EVConsumptionLL.
 
-200.0 of 400 values for parameter ODYM_Tutorial6_SteelConsumption were assigned.
+56.0 of 112 values for parameter ODYM_Tutorial6_EVConsumptionLL were assigned.
 
 Current parameter file UUID: 6738f872-8ec9-4ba5-986b-6da947f03289
 
 _
 
-Reading parameter ODYM_Tutorial6_EoLRecoveryRate
+Reading parameter ODYM_Tutorial6_EoLRecoveryRateLL
 
 LIST
 
-A total of 8 values was read from file for parameter ODYM_Tutorial6_EoLRecoveryRate.
+A total of 2 values was read from file for parameter ODYM_Tutorial6_EoLRecoveryRateLL.
 
-8.0 of 32 values for parameter ODYM_Tutorial6_EoLRecoveryRate were assigned.
+2.0 of 16 values for parameter ODYM_Tutorial6_EoLRecoveryRateLL were assigned.
 
 Current parameter file UUID: 6213e899-8367-483a-8d09-a0c0831c22e5
 
 _
 
-Reading parameter ODYM_Tutorial6_FabricationYieldLoss
+Reading parameter ODYM_Tutorial6_FabricationYieldLossLL
 
 LIST
 
-A total of 8 values was read from file for parameter ODYM_Tutorial6_FabricationYieldLoss.
+A total of 2 values was read from file for parameter ODYM_Tutorial6_FabricationYieldLossLL.
 
-8.0 of 32 values for parameter ODYM_Tutorial6_FabricationYieldLoss were assigned.
+2.0 of 16 values for parameter ODYM_Tutorial6_FabricationYieldLossLL were assigned.
 
 Current parameter file UUID: 03175789-dfcb-4448-99b1-1c467b65b3ed
 
 _
 
-Reading parameter ODYM_Tutorial6_RemeltingYield
+Reading parameter ODYM_Tutorial6_RemeltingYieldLL
 
 LIST
 
-A total of 4 values was read from file for parameter ODYM_Tutorial6_RemeltingYield.
+A total of 2 values was read from file for parameter ODYM_Tutorial6_RemeltingYieldLL.
 
-4.0 of 8 values for parameter ODYM_Tutorial6_RemeltingYield were assigned.
+2.0 of 8 values for parameter ODYM_Tutorial6_RemeltingYieldLL were assigned.
 
 Current parameter file UUID: 38ed7154-01c2-4d21-8128-df10bbd150a5
 
 _
 
-Reading parameter ODYM_Tutorial6_SectorSplit
+Reading parameter ODYM_Tutorial6_SectorSplitLL
 
 LIST
 
-A total of 16 values was read from file for parameter ODYM_Tutorial6_SectorSplit.
+A total of 4 values was read from file for parameter ODYM_Tutorial6_SectorSplitLL.
 
-16.0 of 16 values for parameter ODYM_Tutorial6_SectorSplit were assigned.
+4.0 of 8 values for parameter ODYM_Tutorial6_SectorSplitLL were assigned.
 
 Current parameter file UUID: a3e33053-ab7a-4979-be82-d14c6e5eecef
 
