@@ -88,6 +88,14 @@ _
 
 Reading of parameters finished.
 
+Call to unconnected comm: show_traceback
+
+Call to unconnected comm: show_traceback
+
+Call to unconnected comm: show_traceback
+
+Call to unconnected comm: show_traceback
+
 findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
 
 findfont: score(FontEntry(fname='C:\\Users\\elanphear\\AppData\\Local\\miniconda3\\envs\\ODYM_env\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
