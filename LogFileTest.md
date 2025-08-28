@@ -14,25 +14,25 @@ Define model classifications and select items for model classifications accordin
 
 Define index table dataframe.
 
-Reading parameter ODYM_T6_LifetimeSF
+Reading parameter ODYM_T6_LifetimeMF
 
 LIST
 
-A total of 2 values was read from file for parameter ODYM_T6_LifetimeSF.
+A total of 2 values was read from file for parameter ODYM_T6_LifetimeMF.
 
-2.0 of 2 values for parameter ODYM_T6_LifetimeSF were assigned.
+2.0 of 2 values for parameter ODYM_T6_LifetimeMF were assigned.
 
 Current parameter file UUID: 1ad185e8-af42-4ee1-8cc5-2215081de35c
 
 _
 
-Reading parameter ODYM_T6_SFConsumption
+Reading parameter ODYM_T6_MFConsumption
 
 TABLE
 
-A total of 3208 values was read from file for parameter ODYM_T6_SFConsumption.
+A total of 3208 values was read from file for parameter ODYM_T6_MFConsumption.
 
-96.0 of 192 values for parameter ODYM_T6_SFConsumption were assigned.
+44.0 of 88 values for parameter ODYM_T6_MFConsumption were assigned.
 
 Current parameter file UUID: 6738f872-8ec9-4ba5-986b-6da947f03289
 
